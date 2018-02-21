@@ -1,0 +1,18 @@
+{
+    "name": "david/exo",
+    "authors": [
+        {
+            "name": "Dragon0672",
+            "email": "destd@laposte.net"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "symfony/var-dumper": "^3.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "Source\\": "src/"
+      }
+    }
+}
